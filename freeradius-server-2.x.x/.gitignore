@@ -25,3 +25,4 @@ src/include/stamp-h
 autom4te.cache
 
 config.cache
+/libltdl/Makefile
